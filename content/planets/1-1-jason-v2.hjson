@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Jason 2.0
+localizedName: Zeus
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -9,9 +9,9 @@ mesh: {
   # A number used for mesh generation.
   seed: 69
   # Mesh "quality". More divisions = more hexagons.
-  divisions: 4
+  divisions: 1
   # First color to be used.
-  color1: a2a2c2
+  color1: 1f7515
   # Second color to be used.
   color2: 22262b
   # Mesh radius.
@@ -33,13 +33,13 @@ cloudMesh: {
   # A number used for cloud generation.
   seed: 96
   # Cloud move speed.
-  speed: 0.4
+  speed: 1
   # Cloud sphere radius.
   radius: 0.05
   # Clouds "quality". More divisions = more hexagons.
-  divisions: 4
+  divisions: 1
   # Cloud color.
-  color: 4662e87e
+  color: fffb00
   # A noise property.
   octaves: 3
   # A noise property.
