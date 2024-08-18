@@ -1,12 +1,12 @@
-name: ep-json
-displayName: JSON Example Solar System!
-author: Slotterleet
-subtitle: Themelight included
+name: planetzeus
+displayName: Zeus
+author: Terragold
+subtitle: [scarlet]Warning! Work in Progress!
 description: 
 '''
 This planet has (almost) every single field you can declare in JSON planets. Press the "Repo" button below to see the source code.
 
-This is NOT meant to be played.
+Sectors coming soon!
 '''
 repo: Slotterleet/example-planet-json
 minGameVersion: 146
